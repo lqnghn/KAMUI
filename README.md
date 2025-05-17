@@ -19,3 +19,7 @@ Required Features Checklist
  Seeded randomness: randomSeed() and noiseSeed() logic included. V
  
  Science Lens: Gravitational systems with multiverse-style dimensional variation. V
+
+
+REFLECTION:
+[https://docs.google.com/document/d/1HqtdWxqBRBlCcwfHmzXk3aS-DJaj7fNm83owPwDZHxA/edit?usp=sharing](url)
